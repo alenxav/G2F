@@ -1,0 +1,12 @@
+Package: G2F
+Type: Package
+Title: G2F 2024 GxE prediction competition dataset
+Version: 1.0
+Date: 2025-12-21
+Author: Batista, Lucas Alexandre; Washburn, Jacob, D.; Chen, Qiuyue; de Leon, Natalia; Gage, Joseph, L.; Holland, James, B.; Lima, Dayane, Cristina; Romay, Maria, Cinta; Murray, Seth C.; Xavier, Alencar; Lopez-Cruz, Marco; de los Campos, Gustavo; Dellai, Jacso; Barber, Wesley, T; Rocha, Fabiani; Sekiya, Alline; Nomura, João; Wolfinger, Russell D; da Costa e Silva, Luciano; Ma, Chunwei; Feldner-Busztin, Dylan; Gonçalves, Carolina; Torrents, Jordi; Mendez Martinez, David; Rance, Dean; Firbas Nisantzis, Panos; de Polavieja, Gonzalo, G.; Garin, Vincent; Rio, Simon; Frouin, Julien; Boizet, Alice; Bocs, Stéphanie; Buffard, Marion; Viquez-Zamora, Carlos; Wang, Hongrui; Abeyratne, Chanaka R; Smith, Kenneth, P; Chhetri, Hari B; Kruse, Peter I; Pavicic, Mirko V; Perry, William; Jacobson, Daniel A; Quesada-Traver, Carles; Yates, Steven; Ariza-Suarez, Daniel; Studer, Bruno; Wade, Abdou Rahmane; Osatohanmwen, Bright, E; Agyiri, Mabel; Kristensen, Peter, S.; Malinowska, Marta; Fernandes, Samuel B; Kuivjogi Fernandes, Igor; Austin, Leefers; Vega, Andrey; Aparicio, Johan Steven; Stanschewski, Clara S.; Guzmán-Vega, Francisco J.; Veiga de Camargo, Fabio; Wu, Xing; Wei, Wei; Hoogendam, Tomas, S.; Dirkmaat, Job, J.; Sharma, Shivam; Paraskevi, Nousi; Mike, Boss; Lukas, Roth; Price, Colin; Davis, Phillip E.; Russell, Joseph A.; Mahler, Wesley; Gubbiotti, Joseph; Webster, Brandon M; Carr, Eleanor, S.; Braun, Elliot, O.; Thompson, Addie M; VanBuren, Robert; Creach, Madison, M.; Christopher, Barron, N.; Gee, Mark, T.; Roberts, Nicholas, J.; Widener, Erin, C.; Tuinstra, Mitchell, R.; Xiaoyu, Wang; Kharismawati, Dewi E; Pullanagari, R.R.; Syeda, Fouzia; Peiran, Wang; Hangjin, Liu; Teague, McCracken; Grace, Vincent; Zhang, Zhihai
+Maintainer: Alencar Xavier <alenxav@gmail.com>
+Description: Toy dataset from the G2F 2024 GxE prediction competition dataset to evaluate genomic prediction models.
+License: GPL-3
+LinkingTo: bWGR
+Depends: R (>= 4.0)
+NeedsCompilation: no
