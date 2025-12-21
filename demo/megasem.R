@@ -1,11 +1,7 @@
 # MegaSEM
 require(bWGR) 
-
-# Read inputs
-setwd("~/Desktop/G2F")
-Z = read.csv('Maize_GxE_Competition_Data_2024/Training_data/5_Genotype_Data_All_2014_2025_Hybrids_numerical.txt', sep='\t', skip=1, row.names=1) |> as.matrix() |> IMP()
-dta = read.csv('Maize_GxE_Competition_Data_2024/Training_data/1_Training_Trait_Data_2014_2023.csv')
-PSet = read.csv('Maize_GxE_Competition_Data_2024/Testing_data/1_Submission_Template_2024.csv')
+data(data2024)
+Z = IMP(Z)
 
 # Minor QC: drop locs not part of the TPE
 dta$Loc = factor(substr(dta$Env,1,2))
