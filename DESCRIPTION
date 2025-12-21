@@ -15,6 +15,7 @@ Author: Lucas Alexandre Batista, Jacob D Washburn, Qiuyue Chen, Natalia de Leon,
 Maintainer: Alencar Xavier <alenxav@gmail.com>
 Description: Toy dataset from the G2F 2024 GxE prediction competition dataset to evaluate genomic prediction models.
 License: GPL-3
+Encoding: UTF-8
 LinkingTo: bWGR
 Depends: R (>= 4.0)
 NeedsCompilation: no
