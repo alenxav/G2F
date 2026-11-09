@@ -2,7 +2,7 @@
 
 # Read inputs
 require(bWGR) 
-data(Data2024,envir=environment(),package="G2F")
+data(data2024,envir=environment(),package="G2F")
 
 # Minor QC
 dta$Loc = factor(substr(dta$Env,1,2))
